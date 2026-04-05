@@ -9,3 +9,7 @@ Aqui está uma breve descrição dos exercícios de KNN e DMC propostos na aula.
 2. python -m venv venv
 3. .\venv\Scripts\activate
 4. pip install -r requirements.txt (para instalar tudo o que precisar)
+5. Para rodar no terminal os códigos caso precise:
+    python exercicio1.py
+    python exercicio2.py
+    python exercicio3.py
